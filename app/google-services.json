@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850279945666",
+    "project_id": "socialpost-236bb",
+    "storage_bucket": "socialpost-236bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850279945666:android:25488cd9de99ae0febf25b",
+        "android_client_info": {
+          "package_name": "com.ronakj.socially"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850279945666-onbp9i07ffss7tp6tuob813ae59rpmef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JakbIPIUMLW31vSr8WvvGByWHYk4938"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850279945666-onbp9i07ffss7tp6tuob813ae59rpmef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
